@@ -25,3 +25,4 @@ Java
 * [Baamboozle game](https://www.baamboozle.com/game/2027076)
 * [Oracle](https://docs.oracle.com/en/java/javase/26/index.html)
 * [Java Scanner](https://www.w3schools.com/java/java_user_input.asp)
+* [English Corrector](https://quillbot.com/es/corrector-ortografico?campaign_type=search-20851623508&click_id=CjwKCAjwwpDQBhAuEiwAa-4WoxU-LXJBKTgq1cwyiG51BFjkMtiehYbbYD_k6agdUYYsYrN0EDL50BoCCu8QAvD_BwE&campaign_id=20851623508&adgroup_id=159543860554&ad_id=684023245589&keyword=corrector&placement=&target=&network=g)
