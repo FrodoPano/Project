@@ -58,6 +58,7 @@ public class WritingMistakesGame {
         questions.add(new Question("The center of the town is crowded.", "The town centre is crowded."));
         questions.add(new Question("Its a small town near Valencia.", "It's a small town near Valencia."));
         questions.add(new Question("You are beutiful today.", "You are beautiful today."));
+        questions.add(new Question("I watch the watch", "I watch the watch."));
 
         // SCORE TRACKING VARIABLES
         int score = 0; // Starts at 0, increases by 1 for each correct answer
