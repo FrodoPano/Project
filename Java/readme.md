@@ -22,6 +22,7 @@ Java
 
 # Useful Websites
 
+
 * [Baamboozle game](https://www.baamboozle.com/game/2027076)
 * [Oracle](https://docs.oracle.com/en/java/javase/26/index.html)
 * [Java Scanner](https://www.w3schools.com/java/java_user_input.asp)
