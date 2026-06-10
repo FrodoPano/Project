@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>Poker Memory · Match Pairs</title>
+  <!-- External library via CDN: Anime.js for animations -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.2/anime.min.js" 
+          integrity="sha512-aNMyYYxdIxIaot08Mn0F6+AGnNu8zYPn7u14cU8B+X5j+4v8SOgI0w0uhvLxQ3aFwLQqAJm7PJpHbjhSEbUyPg==" 
+          crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="game-container">
+    <h1>
+      <span>🂡</span> POKER MEMORY <span>🂱</span>
+    </h1>
+    
+    <div class="stats">
+      <span>🔍 Pairs: <span id="pairs-matched">0</span> / <span id="total-pairs">8</span></span>
+      <span class="pairs-done" id="status-badge">❓</span>
+      <button id="new-game-btn">⟳ New Game</button>
+    </div>
+
+    <div id="game-grid" class="grid"></div>
+    
+    <div id="message-box" class="message-area"></div>
+    <div class="footer-note">♢ match identical poker cards ♤</div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
